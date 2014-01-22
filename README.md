@@ -6,7 +6,7 @@ MusicForSport
 
 youtube 影片
 
-[![youtube 影片](http://img.youtube.com/vi/KkFOMzkwAYE/1.jpg)](http://www.youtube.com/watch?v=KkFOMzkwAYE)
+[![youtube 影片](http://img.youtube.com/vi/KkFOMzkwAYE/0.jpg)](http://www.youtube.com/watch?v=KkFOMzkwAYE)
 
 說明
 
